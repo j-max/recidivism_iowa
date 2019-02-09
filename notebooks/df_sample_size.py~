@@ -1,0 +1,10 @@
+import  pandas as pd
+import pickle
+
+df = pickle.load(open('../data/pickles/df_full.pickle', 'rb'))
+
+def df_trimmer(df):
+
+    df_large_features = [large_feature for feature in list(df)
+                         if df[feature].sum() > 30]
+    return df_large_features
