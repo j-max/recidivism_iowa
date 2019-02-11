@@ -1,0 +1,91 @@
+recid_flag,8311
+target_pop_flag,13766
+year_released_2010,3702
+year_released_2011,3904
+year_released_2012,4691
+year_released_2013,4674
+year_released_2014,2819
+year_released_2015,4360
+reporting_year_2013,3702
+reporting_year_2014,3904
+reporting_year_2015,4691
+reporting_year_2016,4674
+reporting_year_2017,2819
+reporting_year_2018,4360
+race_American Indian or Alaska Native - Non-Hispanic,463
+race_Asian or Pacific Islander - Non-Hispanic,175
+race_Black - Non-Hispanic,5687
+race_White - Hispanic,1365
+race_White - Non-Hispanic,16460
+age_at_release_25-34,8849
+age_at_release_35-44,5830
+age_at_release_45-54,4071
+age_at_release_55 and Older,1188
+age_at_release_Under 25,4212
+conviction_class_A Felony,4
+conviction_class_Aggravated Misdemeanor,4307
+conviction_class_B Felony,1715
+conviction_class_C Felony,6430
+conviction_class_D Felony,9758
+conviction_class_Felony - Enhanced,220
+conviction_class_Felony - Enhancement to Original Penalty,1485
+conviction_class_Felony - Mandatory Minimum,10
+conviction_class_Other Felony,6
+conviction_class_Other Felony (Old Code),2
+conviction_class_Serious Misdemeanor,139
+conviction_class_Sexual Predator Community Supervision,2
+conviction_class_Simple Misdemeanor,3
+conviction_class_Special Sentence 2005,69
+convicting_type_Drug,7552
+convicting_type_Other,1165
+convicting_type_Property,6841
+convicting_type_Public Order,3328
+convicting_type_Violent,5264
+conviction_subtype_Alcohol,312
+conviction_subtype_Animals,6
+conviction_subtype_Arson,151
+conviction_subtype_Assault,2890
+conviction_subtype_Burglary,2761
+conviction_subtype_Drug Possession,1070
+conviction_subtype_Flight/Escape,78
+conviction_subtype_Forgery/Fraud,1127
+conviction_subtype_Kidnap,63
+conviction_subtype_Murder/Manslaughter,377
+conviction_subtype_OWI,1684
+conviction_subtype_Other Criminal,1049
+conviction_subtype_Other Drug,259
+conviction_subtype_Other Public Order,258
+conviction_subtype_Other Violent,571
+conviction_subtype_Prostitution/Pimping,32
+conviction_subtype_Robbery,319
+conviction_subtype_Sex,1091
+conviction_subtype_Sex Offender Registry/Residency,129
+conviction_subtype_Special Sentence Revocation,63
+conviction_subtype_Stolen Property,9
+conviction_subtype_Theft,2472
+conviction_subtype_Traffic,488
+conviction_subtype_Trafficking,6223
+conviction_subtype_Vandalism,321
+conviction_subtype_Weapons,347
+release_type_Discharged - Expiration of Sentence,2326
+release_type_Discharged – End of Sentence,4983
+release_type_Parole,9786
+release_type_Parole Granted,5563
+release_type_Paroled to Detainer - INS,133
+release_type_Paroled to Detainer - Iowa,65
+release_type_Paroled to Detainer - Out of State,137
+release_type_Paroled to Detainer - U.S. Marshall,77
+release_type_Paroled w/Immediate Discharge,333
+release_type_Released to Special Sentence,400
+release_type_Special Sentence,347
+supervising_district_1JD,2783
+supervising_district_2JD,1986
+supervising_district_3JD,1182
+supervising_district_4JD,664
+supervising_district_5JD,4970
+supervising_district_6JD,1094
+supervising_district_7JD,1507
+supervising_district_8JD,1555
+supervising_district_ISC,349
+supervising_district_Interstate Compact,307
+supervising_district_None-Discharged,7753
