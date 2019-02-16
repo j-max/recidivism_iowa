@@ -1,5 +1,15 @@
 import pandas as pd
+import pickle
 
+df = pickle.load(open('../data/pickles/df_full.pickle', 'rb'))
+mask =[feature  for feature in list(df) if df[feature].sum() > 50]
+df = df[mask]
+
+def all_features(df):
+     new_Xy = [df.drop('recid_flag', axis=1),
+              df['recid_flag']]
+     return new_Xy
+     
 def no_targ_pop(df):
     df_new = df.drop('target_pop_flag', axis=1)
     new_Xy = [df_new.drop('recid_flag', axis=1),
@@ -54,7 +64,6 @@ def conv_subt(df):
                       'age_at_release_55 and Older',
                       'age_at_release_Under 25',
                       'conviction_subtype_Alcohol',
-                      'conviction_subtype_Animals',
                       'conviction_subtype_Arson',
                       'conviction_subtype_Assault',
                       'conviction_subtype_Burglary',
@@ -68,12 +77,10 @@ def conv_subt(df):
                       'conviction_subtype_Other Drug',
                       'conviction_subtype_Other Public Order',
                       'conviction_subtype_Other Violent',
-                      'conviction_subtype_Prostitution/Pimping',
                       'conviction_subtype_Robbery',
                       'conviction_subtype_Sex',
                       'conviction_subtype_Sex Offender Registry/Residency',
                       'conviction_subtype_Special Sentence Revocation',
-                      'conviction_subtype_Stolen Property',
                       'conviction_subtype_Theft',
                       'conviction_subtype_Traffic',
                       'conviction_subtype_Trafficking',
@@ -118,19 +125,13 @@ def conv_class(df):
                       'age_at_release_45-54',
                       'age_at_release_55 and Older',
                       'age_at_release_Under 25',
-                      'conviction_class_A Felony',
                       'conviction_class_Aggravated Misdemeanor',
                       'conviction_class_B Felony',
                       'conviction_class_C Felony',
                         'conviction_class_D Felony',
                         'conviction_class_Felony - Enhanced',
                         'conviction_class_Felony - Enhancement to Original Penalty',
-                        'conviction_class_Felony - Mandatory Minimum',
-                        'conviction_class_Other Felony',
-                        'conviction_class_Other Felony (Old Code)',
                         'conviction_class_Serious Misdemeanor',
-                        'conviction_class_Sexual Predator Community Supervision',
-                        'conviction_class_Simple Misdemeanor',
                         'conviction_class_Special Sentence 2005']]  
 
     new_Xy = [df_new.drop('recid_flag', axis=1),df_new['recid_flag']]
