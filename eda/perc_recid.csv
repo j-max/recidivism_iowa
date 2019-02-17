@@ -1,0 +1,91 @@
+recid_flag,1.0
+target_pop_flag,0.39154438471596686
+year_released_2010,0.30361966504592114
+year_released_2011,0.29713114754098363
+year_released_2012,0.32082711575357065
+year_released_2013,0.3431750106974754
+year_released_2014,0.44980489535296203
+year_released_2015,0.37844036697247707
+reporting_year_2013,0.30361966504592114
+reporting_year_2014,0.29713114754098363
+reporting_year_2015,0.32082711575357065
+reporting_year_2016,0.3431750106974754
+reporting_year_2017,0.44980489535296203
+reporting_year_2018,0.37844036697247707
+race_American Indian or Alaska Native - Non-Hispanic,0.4038876889848812
+race_Asian or Pacific Islander - Non-Hispanic,0.25142857142857145
+race_Black - Non-Hispanic,0.34534904167399333
+race_White - Hispanic,0.22197802197802197
+race_White - Non-Hispanic,0.3531591737545565
+age_at_release_25-34,0.37247146570233924
+age_at_release_35-44,0.3355060034305317
+age_at_release_45-54,0.2932940309506264
+age_at_release_55 and Older,0.2037037037037037
+age_at_release_Under 25,0.3853276353276353
+conviction_class_A Felony,0.0
+conviction_class_Aggravated Misdemeanor,0.3443231947991642
+conviction_class_B Felony,0.34052478134110786
+conviction_class_C Felony,0.36003110419906686
+conviction_class_D Felony,0.3227095716335315
+conviction_class_Felony - Enhanced,0.35
+conviction_class_Felony - Enhancement to Original Penalty,0.41885521885521887
+conviction_class_Felony - Mandatory Minimum,0.2
+conviction_class_Other Felony,0.5
+conviction_class_Other Felony (Old Code),0.0
+conviction_class_Serious Misdemeanor,0.302158273381295
+conviction_class_Sexual Predator Community Supervision,0.0
+conviction_class_Simple Misdemeanor,0.0
+conviction_class_Special Sentence 2005,0.4927536231884058
+convicting_type_Drug,0.3695709745762712
+convicting_type_Other,0.4497854077253219
+convicting_type_Property,0.37509136091214734
+convicting_type_Public Order,0.3016826923076923
+convicting_type_Violent,0.2708966565349544
+conviction_subtype_Alcohol,0.38461538461538464
+conviction_subtype_Animals,0.16666666666666666
+conviction_subtype_Arson,0.26490066225165565
+conviction_subtype_Assault,0.28096885813148786
+conviction_subtype_Burglary,0.398406374501992
+conviction_subtype_Drug Possession,0.3747663551401869
+conviction_subtype_Flight/Escape,0.47435897435897434
+conviction_subtype_Forgery/Fraud,0.37710736468500444
+conviction_subtype_Kidnap,0.12698412698412698
+conviction_subtype_Murder/Manslaughter,0.16180371352785147
+conviction_subtype_OWI,0.26365795724465557
+conviction_subtype_Other Criminal,0.4547187797902765
+conviction_subtype_Other Drug,0.3166023166023166
+conviction_subtype_Other Public Order,0.37209302325581395
+conviction_subtype_Other Violent,0.29597197898423816
+conviction_subtype_Prostitution/Pimping,0.34375
+conviction_subtype_Robbery,0.2476489028213166
+conviction_subtype_Sex,0.28780934922089824
+conviction_subtype_Sex Offender Registry/Residency,0.3023255813953488
+conviction_subtype_Special Sentence Revocation,0.4603174603174603
+conviction_subtype_Stolen Property,0.4444444444444444
+conviction_subtype_Theft,0.3644822006472492
+conviction_subtype_Traffic,0.305327868852459
+conviction_subtype_Trafficking,0.3708822111521774
+conviction_subtype_Vandalism,0.29906542056074764
+conviction_subtype_Weapons,0.3112391930835735
+release_type_Discharged - Expiration of Sentence,0.2725709372312984
+release_type_Discharged – End of Sentence,0.24643788882199477
+release_type_Parole,0.37206212957285917
+release_type_Parole Granted,0.4058960992270358
+release_type_Paroled to Detainer - INS,0.03007518796992481
+release_type_Paroled to Detainer - Iowa,0.5846153846153846
+release_type_Paroled to Detainer - Out of State,0.31386861313868614
+release_type_Paroled to Detainer - U.S. Marshall,0.06493506493506493
+release_type_Paroled w/Immediate Discharge,0.21921921921921922
+release_type_Released to Special Sentence,0.4975
+release_type_Special Sentence,0.5417867435158501
+supervising_district_1JD,0.4085519223859145
+supervising_district_2JD,0.41389728096676737
+supervising_district_3JD,0.4179357021996616
+supervising_district_4JD,0.4563253012048193
+supervising_district_5JD,0.44969818913480886
+supervising_district_6JD,0.38939670932358317
+supervising_district_7JD,0.34970139349701396
+supervising_district_8JD,0.3858520900321543
+supervising_district_ISC,0.10888252148997135
+supervising_district_Interstate Compact,0.11400651465798045
+supervising_district_None-Discharged,0.21849606603895266
